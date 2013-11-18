@@ -1,3 +1,5 @@
 Tic-Tac-Toe
 ==========
-sdfbncma,
+Development Manual
+
+Administration Manual
