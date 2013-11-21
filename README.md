@@ -4,9 +4,10 @@ Development Manual
 
 Administration Manual
 Diddi
-
+____________________
 
 List of Tests:
+
 Starts game with two players X and 0
 
 Starts game with new game board
